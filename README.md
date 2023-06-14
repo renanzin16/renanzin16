@@ -1,16 +1,16 @@
-### Hi there 👋
+_Boas vindas ao meu perfil_  🙌 
 
-<!--
-**renanzin16/renanzin16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_Meu nome é vinicius_ 
 
-Here are some ideas to get you started:
+- _Estou estudando na plata forma alura_
+- _Estou me desenvolvendo na linguagem JavaScript_
+- _Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Você entrar em contato comigo 🏀 
+
+vinicius.bello.franca@escola.pr.gov.br
+
+ @vinicius_skt_cwb
+  
+  
+![](https://media.tenor.com/cNIO8vb7wAUAAAAC/goat-jordan.gif)
